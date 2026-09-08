@@ -94,7 +94,7 @@ class lukman{
   }
 
   void pinchecker(int pass){
-    if(pass=){
+    if(pass==pin){
       print("PIN MATCH");
     }
     else{
